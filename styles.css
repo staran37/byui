@@ -11,8 +11,14 @@ footer {
 }
 
 .center {
-  margin: auto;
-  width: 50%;
-  // border: 1px solid green;
-  padding: 10px;
+	margin: auto;
+	width: 50%;
+	// border: 1px solid green;
+	padding: 10px;
+}
+
+.imageContainer {
+
+	float: right;
+	margin-top: 15px;
 }
